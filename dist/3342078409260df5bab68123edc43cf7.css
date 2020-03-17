@@ -1,0 +1,10 @@
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = require("../node_modules/css-loader/dist/runtime/api.js");
+exports = ___CSS_LOADER_API_IMPORT___(false);
+// Module
+exports.push([module.id, "._11mHKXT22XlSOLRVYwELo7 {\n    display: grid;\n    grid-template-columns: repeat(7, 1fr)\n}\n\n", ""]);
+// Exports
+exports.locals = {
+	"gridcontainer": "_11mHKXT22XlSOLRVYwELo7"
+};
+module.exports = exports;
